@@ -13,4 +13,6 @@ git push
 2.We need to have a Github account
 3.Github account setup in IntelliJ
 
-Testing git pull by adding this statement by clicking on the edit icon
+Testing git fetch and merge by adding this statement by clicking on the edit icon
+
+Now, editing this file to check git pull operation
