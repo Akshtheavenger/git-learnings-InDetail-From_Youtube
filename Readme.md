@@ -7,3 +7,8 @@ git commit
 1.We do a git commit when we think that the project is in a meaningful state - versioned copy of the state
 2.Move the files to staging area
 3.commiting the code to local repository
+
+git push
+1.Moving the code from local to remote
+2.We need to have a Github account
+3.Github account setup in IntelliJ
