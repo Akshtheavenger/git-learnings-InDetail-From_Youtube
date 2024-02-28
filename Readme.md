@@ -12,3 +12,5 @@ git push
 1.Moving the code from local to remote
 2.We need to have a Github account
 3.Github account setup in IntelliJ
+
+Testing git pull by adding this statement by clicking on the edit icon
