@@ -6,4 +6,4 @@ git init
 git commit
 1.We do a git commit when we think that the project is in a meaningful state - versioned copy of the state
 2.Move the files to staging area
-3.
+3.commiting the code to local repository
