@@ -16,3 +16,11 @@ git push
 Testing git fetch and merge by adding this statement by clicking on the edit icon
 
 Now, editing this file to check git pull operation
+
+As of now we have spoken about:-
+
+git pull
+
+git branch
+
+git add new features
