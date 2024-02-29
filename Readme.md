@@ -28,3 +28,5 @@ Git - adding a new feature/new test case
 5.Push the code to remote
 6.Create a pull request [For that particular branch against the main branch]
 7.Merge the code once approved
+
+git revert/undo/drop commits
