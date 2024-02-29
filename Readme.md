@@ -17,10 +17,14 @@ Testing git fetch and merge by adding this statement by clicking on the edit ico
 
 Now, editing this file to check git pull operation
 
-We saw:-
+git Branches:
+1. Branches create a new line of development without affecting the master/main branch
 
-git pull
-
-git commit
-
-now adding new feature
+Git - adding a new feature/new test case
+1.Pull latest changes
+2.Create a branch [From the source branch]
+3.Make changes [Adding new features]
+4.Commit the changes
+5.Push the code to remote
+6.Create a pull request [For that particular branch against the main branch]
+7.Merge the code once approved
